@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using BitATM;
 
 namespace sistemaCaixaEletronico
 {
@@ -53,20 +52,20 @@ namespace sistemaCaixaEletronico
             }
         }
 
-        public sistemaCaixaEletronico(string nomeUsuario)
+        public sistemaCaixaEletronico()
         {
             InitializeComponent();
             tabControl.SelectedTab = tabPagIni;
-            lblSaudacao.Text = $"Olá, seja bem vindo!";
+            string nomeUsuario = "Felipe";
+            lblSaudacao.Text = $"Olá, {nomeUsuario}"; // precisa alterar para o programa entender quem esta
+            //logado no sistema e puxar o usuario correto sem estar fixo.
             AtualizarDisplayCaixa();
             historicoTransacoes.Add($"{DateTime.Now:dd/MM/yyyy HH:mm} - Saldo Inicial: R$ {sldAtual:F2}");
         }
-
         private void grpBxExtrato_Enter(object sender, EventArgs e)
         {
             AtualizarExtratoDisplay();
         }
-        
         private void paginaInicialToolStripMenuItem_Click(object sender, EventArgs e)
         {
             tabControl.SelectedTab = tabPagIni;
@@ -346,7 +345,8 @@ namespace sistemaCaixaEletronico
 
             // Cria o cabeçalho padrão para o arquivo
             string cabecalho = "=== EXTRATO BANCÁRIO ===\n" +
-                             $"Data: {DateTime.Now:dd/MM/yyyy HH:mm}\n";
+                             $"Data: {DateTime.Now:dd/MM/yyyy HH:mm}\n" +
+                             $"Cliente: Felipe\n\n";
 
             // Monta o conteúdo completo do arquivo
             string conteudoCompleto = cabecalho + conteudoExtrato;

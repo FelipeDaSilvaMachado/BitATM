@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BitATM
+namespace sistemaCaixaEletronico
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace BitATM
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BitATM());
+            Application.Run(new sistemaCaixaEletronico());
         }
     }
 }

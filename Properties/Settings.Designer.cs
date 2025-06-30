@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BitATM.Properties
+namespace sistemaCaixaEletronico.Properties
 {
 
 
