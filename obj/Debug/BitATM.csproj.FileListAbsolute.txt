@@ -1,0 +1,43 @@
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.BitATM.resources
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.Properties.Resources.resources
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\BitATM\BitATM\bin\Debug\BitATM.exe.config
+C:\Users\Alunos\Desktop\BitATM\BitATM\bin\Debug\BitATM.exe
+C:\Users\Alunos\Desktop\BitATM\BitATM\bin\Debug\BitATM.pdb
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.exe
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.pdb
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.comprovanteSaque.resources
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\sistemaCaixaEletronico.sistemaCaixaEletronico.resources
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.frmComprovanteDeposito.resources
+C:\Users\Alunos\Desktop\BitATM\BitATM\obj\Debug\BitATM.frmImprimirExtrato.resources
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\bin\Debug\BitATM.exe.config
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\bin\Debug\BitATM.exe
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\bin\Debug\BitATM.pdb
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.csproj.AssemblyReference.cache
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.BitATM.resources
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.comprovanteSaque.resources
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\sistemaCaixaEletronico.sistemaCaixaEletronico.resources
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.frmComprovanteDeposito.resources
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.frmImprimirExtrato.resources
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.Properties.Resources.resources
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.csproj.GenerateResource.cache
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.exe
+D:\Desenvolvimento de Sistemas- ETEC-2025\DS-1\BitATM\obj\Debug\BitATM.pdb
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\bin\Debug\BitATM.exe.config
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\bin\Debug\BitATM.exe
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\bin\Debug\BitATM.pdb
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.csproj.AssemblyReference.cache
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.exe.config
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.BitATM.resources
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.comprovanteSaque.resources
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\sistemaCaixaEletronico.sistemaCaixaEletronico.resources
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.frmComprovanteDeposito.resources
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.frmImprimirExtrato.resources
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.Properties.Resources.resources
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.csproj.GenerateResource.cache
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.csproj.CoreCompileInputs.cache
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.exe
+D:\ETEC\SEGUNDO_SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\ATIVIDADES\projetoFinal\BitATM\obj\Debug\BitATM.pdb
